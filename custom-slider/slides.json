@@ -1,0 +1,92 @@
+{
+  "slides": [
+    {
+      "subtitle": "Luxury Living",
+      "title": "Modern Apartment Spaces",
+      "description": "Discover premium apartments designed for comfort, elegance and urban lifestyle.",
+      "button_text": "Explore Now",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Prime Location",
+      "title": "Beautiful City Apartments",
+      "description": "Experience breathtaking views and world-class amenities.",
+      "button_text": "View Details",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Premium Design",
+      "title": "Stylish Interior Concepts",
+      "description": "Designed to blend luxury, comfort and functionality.",
+      "button_text": "Book a Visit",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Skyline Views",
+      "title": "Penthouse Collection",
+      "description": "Enjoy panoramic city views from our exclusive penthouse residences.",
+      "button_text": "Learn More",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Family Comfort",
+      "title": "Spacious Living Areas",
+      "description": "Large open-plan layouts designed for modern family living.",
+      "button_text": "See Floor Plans",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Urban Lifestyle",
+      "title": "Connected Community",
+      "description": "Live close to shopping, dining, entertainment and business hubs.",
+      "button_text": "Explore Area",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Elegant Interiors",
+      "title": "Designer Finishes",
+      "description": "Premium materials and carefully crafted interiors for sophisticated living.",
+      "button_text": "View Gallery",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Resort Amenities",
+      "title": "Luxury Facilities",
+      "description": "Enjoy pools, fitness centers, lounges and landscaped gardens.",
+      "button_text": "See Amenities",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Smart Homes",
+      "title": "Future-Ready Living",
+      "description": "Integrated smart technology for convenience, security and efficiency.",
+      "button_text": "Discover Features",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Investment Opportunity",
+      "title": "High Value Properties",
+      "description": "Invest in premium real estate with strong growth potential.",
+      "button_text": "Investment Info",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+      "subtitle": "Dream Residence",
+      "title": "Find Your Perfect Home",
+      "description": "Choose from a variety of layouts tailored to your lifestyle needs.",
+      "button_text": "Get Started",
+      "button_link": "#",
+      "image": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&fit=crop&w=1920&q=80"
+    }
+  ]
+}
